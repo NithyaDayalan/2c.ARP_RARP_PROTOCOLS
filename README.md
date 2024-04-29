@@ -1,4 +1,7 @@
 # 2c  SIMULATING ARP /RARP PROTOCOLS
+## DEVELOPED BY : NITHYA D
+## REG.NO : 212223240110
+
 ## AIM :
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM :
@@ -19,6 +22,9 @@ To write a python program for simulating ARP protocols using TCP.
 ### PROGRAM :
 #### CLIENT :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -34,6 +40,9 @@ while True:
 ```
 #### SERVER :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
@@ -49,6 +58,9 @@ while True:
 ### PROGRAM :
 #### CLIENT :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket
 s=socket.socket()
 s.bind(('localhost',9000))
@@ -64,6 +76,9 @@ while True:
 ```
 #### SERVER :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket
 s=socket.socket()
 s.connect(('localhost',9000))
