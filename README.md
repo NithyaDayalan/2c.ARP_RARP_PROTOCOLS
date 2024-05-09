@@ -87,7 +87,7 @@ while True:
     s.send(ip.encode())
     print("Logical address",s.recv(1024).decode())
 ```
-### OUPUT :
+### OUTPUT :
 ![image](https://github.com/NithyaDayalan/2c.ARP_RARP_PROTOCOLS/assets/166380061/1f82fdcd-68dd-424e-97db-ac195e1f1a25)
 
 ## RESULT :
